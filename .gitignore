@@ -1,0 +1,14 @@
+datasets/
+*.sh
+checkpoints/
+results/
+tensorboard_logs/
+*.png
+*.jpg
+*.csv
+__pycache__/
+model/__pycache__/
+graph/__pycache__/
+mha/__pycache__/
+
+
